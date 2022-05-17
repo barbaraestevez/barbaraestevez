@@ -8,7 +8,7 @@ After having developed my professional career around graphic design and editoria
 
 <br>
 <br>
----
+<br>
 
 ##### Knowledges
 
@@ -19,8 +19,8 @@ After having developed my professional career around graphic design and editoria
 + NodeJS, Express, SQL
 
 <br>
----
-
+<br>
+<br>
 
 ##### Technologies 
 
@@ -42,8 +42,7 @@ After having developed my professional career around graphic design and editoria
 
 <br>
 <br>
-
-
+<br>
 
 ##### Tools
 
@@ -67,16 +66,14 @@ After having developed my professional career around graphic design and editoria
 
 <br>
 <br>
-
-
+<br>
 
 ##### Contact:
 
 Contact me at  barbara.estevez@gmail.com
 
 <p align="left">
-<a href="https://www.linkedin.com/in/barbara-estevez-simonet/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="barbara estevez" height="20" width="40"/>Bárbara Estévez</a>          
-</p>
+<a href="https://www.linkedin.com/in/barbara-estevez-simonet/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="barbara estevez" height="20" width="40"/>Bárbara Estévez</a> </p>
 
 
 <!--
