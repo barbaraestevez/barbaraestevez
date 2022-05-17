@@ -5,12 +5,14 @@
 
 After having developed my professional career around graphic design and editorial layout I wanted to renew myself and dedicate myself to frontend web development. Methodical and detail-oriented, I would like to have the opportunity to develop my knowledge in a real work environment, continue learning and consolidate knowledge that will help me in my new future as a programmer.
 
-As a frontend developer I've learned:
+##### Knowledges
+
 + HTML5, CSS3, Sass, JavaScript
 + React, third-party web services (APIs)
 + Creation of SPAs with React
 + Version control with Git
 + NodeJS, Express, SQL
+<br>
 
 ##### Technologies 
 
@@ -34,7 +36,9 @@ As a frontend developer I've learned:
 
 ##### Tools
 
-<img align="left" alt="Github" width="25px" src="https://image.flaticon.com/icons/png/512/25/25231.png" />
+<img align="left" alt="Github" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+
+<img align="left" alt="Git" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />         
 
 <img align="left" alt="Npm" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" />
 
@@ -52,7 +56,7 @@ As a frontend developer I've learned:
 
 <br>
 
-### 💬 Contact:
+### Contact:
 
 Contact me at  barbara.estevez@gmail.com
 
