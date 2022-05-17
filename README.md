@@ -4,6 +4,8 @@
 ## I'm a Frontend Web Developer & Graphic Designer.
 
 After having developed my professional career around graphic design and editorial layout I wanted to renew myself and dedicate myself to frontend web development. Methodical and detail-oriented, I would like to have the opportunity to develop my knowledge in a real work environment, continue learning and consolidate knowledge that will help me in my new future as a programmer.
+<br>
+---
 
 ##### Knowledges
 
@@ -12,7 +14,6 @@ After having developed my professional career around graphic design and editoria
 + Creation of SPAs with React
 + Version control with Git
 + NodeJS, Express, SQL
-<br>
 <br>
 ---
 
