@@ -8,7 +8,7 @@ After having developed my professional career around graphic design and editoria
 
 <br>
 
-##### KNOWLEDGES
+#### KNOWLEDGES
 
 + HTML5, CSS3, Sass, JavaScript
 + React, third-party web services (APIs)
@@ -17,7 +17,7 @@ After having developed my professional career around graphic design and editoria
 + NodeJS, Express, SQL
 
 
-##### TECHNOLOGIES 
+#### TECHNOLOGIES 
 
 <img align="left" alt="HTML5" width="35px" target="blank"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
@@ -38,7 +38,7 @@ After having developed my professional career around graphic design and editoria
 <br>
 <br>
 
-##### TOOLS
+#### TOOLS
 
 <img align="left" alt="Github" width="25px" target="blank" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
@@ -61,7 +61,7 @@ After having developed my professional career around graphic design and editoria
 <br>
 <br>
 
-##### CONTACT
+#### CONTACT
 
 Contact me at  barbara.estevez@gmail.com
 
