@@ -13,6 +13,8 @@ After having developed my professional career around graphic design and editoria
 + Version control with Git
 + NodeJS, Express, SQL
 <br>
+<br>
+---
 
 ##### Technologies 
 
@@ -28,11 +30,13 @@ After having developed my professional career around graphic design and editoria
 
 <img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
-<img align="left" alt="Node.js" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="Node.js" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 
-<img align="left" alt="Sass" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+<img align="left" alt="Sass" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 
 <br>
+<br>
+---
 
 ##### Tools
 
@@ -55,6 +59,8 @@ After having developed my professional career around graphic design and editoria
 <img align="left" alt="Filezilla" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg"/>
 
 <br>
+<br>
+---
 
 ### Contact:
 
